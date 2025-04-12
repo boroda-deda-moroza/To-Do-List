@@ -148,7 +148,6 @@ input[type="checkbox"]:checked ~ .todo__text {
   }
   .title {
     margin-bottom: 50px;
-    font-size: 15vw;
   }
 }
 
